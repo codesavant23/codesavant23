@@ -1,0 +1,10 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Esagono -->
+    <polygon points="256,40 440,140 440,360 256,460 72,360 72,140" fill="#4f6bdc"/>
+    <!-- Parte scura diagonale -->
+      <polygon points="72,360 256,260 440,140 440,360 256,460" fill="#263f8f"/>
+      <!-- Testo ASM -->
+        <text x="51%" y="52%" text-anchor="middle" dominant-baseline="middle" font-family="Montserrat, Arial, sans-serif" font-size="145" fill="white" font-weight="bold">
+          ASM
+        </text>
+      </svg>
