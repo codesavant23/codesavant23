@@ -13,7 +13,7 @@ that gives them understanding."_ - Job 32:8 (NIV)
 
 ---
 
-I'm about to graduate with a Bachelor's degree in Computer Science from the University of Udine, where I focused on Internet of Things, Big Data, and Artificial Intelligence.
+I just graduated with a Bachelor's degree in "IoT, Big Data & Web" at the University of Udine, where I focused on Internet of Things, Big Data, and Artificial Intelligence.
 
 I've been passionate about software development since I was a kid (around 7–8 years old), and that passion led me to pursue a technical path in computer science.
 
@@ -71,10 +71,10 @@ In addition, I have solid foundations in system administration and networking, w
 
 A special place in my interests is reserved for **software design**. I naturally tend to approach development from an architectural perspective rather than focusing only on implementation details.
 
-Although I'm just about to graduate and haven't yet had formal industry experience, I've had the opportunity to work on practical projects involving the design of moderately complex systems, which helped me build a grounded foundation in software architecture.
+Although I'm just graduated and haven't yet had formal industry experience, I've had the opportunity to work on practical projects involving the design of moderately complex systems, which helped me build a grounded foundation in software architecture.
 
 Over the years, I’ve developed a strong understanding of Object-Oriented design principles, including Dependency Injection (with generics), 
-and **SOLID principles** which I generally prefer over other approaches for their clarity, scalability, and maintainability.
+and, most of all, **SOLID principles** which I generally prefer over other approaches for their clarity, scalability, and maintainability.
 
 <!--
 **codesavant23/codesavant23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
