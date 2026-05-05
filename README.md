@@ -19,7 +19,7 @@ I've been passionate about software development since I was a kid (around 7–8 
 
 Despite being early in my career, I've had the opportunity to explore a fairly wide range of technologies and programming languages.
 
-Here's a non-exhaustive list:
+Here's a <ins>**non-exhaustive**</ins> list:
 
 ### 💻 Programming Languages
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="./icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
