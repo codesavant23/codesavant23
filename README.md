@@ -35,6 +35,8 @@ I completely understand! If I were looking at my profile from the outside, I’d
 
 > **90% of my work is kept private to protect both my clients' and my own intellectual property and data sovereignty.** Rather than using public platforms, I host and manage my code repositories on a private, self-hosted **Forgejo** instance.
 
+My public thesis repo serves merely as an academic "Proof of Concept" to demonstrate my baseline technical skills - it is not reflective of the production-grade quality, testing, or documentation standards I apply in client projects.
+
 💬 **<ins>Want to know me more</ins>, or what I’ve built?** Drop me a message! I'm always happy to walk you through my real-world experience, architectural decisions or tech stack.
 
 ## Professional Experiences
