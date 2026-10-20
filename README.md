@@ -71,7 +71,7 @@ _**Proposed Role**_: _C++ Software Engineer and Developer / Cybersecurity Consul
 
 **Design & Development of the RASP Library (C++ for CyberSecurity)**
 
-- Design and development from scratch of a Runtime Application Self-Protection (RASP) library in native C++, engineered to protect and harden client-side applications and individual software components operating in untrusted environments.
+- Design and development of a Runtime Application Self-Protection (RASP) library in native C++, engineered to protect and harden client-side applications and individual software components operating in untrusted environments.
 - Management of software architecture and code engineering based on SOLID principles, ensuring modularity and maintainability while prioritizing high computational performance where required.
 - Implementation of active, runtime-level security logic designed to prevent tampering, unauthorized use of the software (or single components), and attempts at reverse engineering.
 - Proposed the use of a cross-language ABI, through C language, to integrate the library into software systems of different nature
