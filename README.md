@@ -33,7 +33,7 @@ I completely understand! If I were looking at my profile from the outside, I’d
 
 **Here's the full story:**
 
-> **90% of my work is kept private to protect both my clients' and my own intellectual property and data sovereignty.** Rather than using public platforms, I host and manage my code repositories on a private, self-hosted **Forgejo** instance.
+> **90% of my work is kept private to protect both my clients' and my own intellectual property and data sovereignty.** Rather than using public platforms, <ins>I host and manage my code repositories on a private, self-hosted **Forgejo** instance</ins>.
 
 Moreover, my public thesis repo serves **merely** as an academic "Proof of Concept" **to demonstrate my baseline technical skills** - it is not reflective of the production-grade quality, testing, or documentation standards I apply in client projects.
 
